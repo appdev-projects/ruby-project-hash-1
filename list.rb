@@ -12,6 +12,9 @@
 #   James
 #   Yolanda
 #   etc.
+#
+# (Hint: the list_of_people variable is an Array. How
+# do we loop through the items in an Array?)
 
 list_of_people = [
   { :name => "James", :age => 16 },
